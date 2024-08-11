@@ -1,0 +1,44 @@
+#ONE{
+    height: 500px;h
+    width: 600px;
+    padding: 50px;
+    background-color: rgb(82, 110, 134);
+}
+#TWO{
+    height: 250px;
+    width: 600px;
+    background-color: rgb(250, 250, 250);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* jhala are ankhi ek box ahe n atmdey three n  brorhm*/ 
+#THREE{
+    height: 250px;
+    width: 600px;
+    display: flex;
+}
+#RUTUJA{
+    height: 250px;
+    width: 300px;
+    background-color: rgb(19, 57, 57);
+    border-bottom-left-radius: 20px;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#REDDY{
+    height: 250px;
+    width: 300px;
+    background-color: rgb(130, 196, 218);
+    border-bottom-right-radius: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
